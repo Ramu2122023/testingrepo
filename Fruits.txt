@@ -2,3 +2,6 @@ Mango
 Lemon
 Guava
 Custord Apple
+Dragon Fruit
+
+All fruites are organic .
